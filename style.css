@@ -213,7 +213,15 @@ td {
   width: 800px;
 }
 
-@media only screen and (max-width: 600px) {
+a:link {
+  color: #044083;
+}
+
+a:visited {
+  color: #044083;
+}
+
+@media only screen and (max-width: 720px) {
   * {
     margin: 0;
   }
